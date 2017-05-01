@@ -1,0 +1,3 @@
+---
+# if Docker version not specified below, latest version will be installed
+docker_version:
